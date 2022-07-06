@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=PhabricatorEditor.php
+Comment=Open '/home/white/Desktop/phabricator-master/src/infrastructure/PhabricatorEditor.php'
+Icon=application-x-php
+Name[en_US]=PhabricatorEditor.php
+Comment[en_US]=Open '/home/white/Desktop/phabricator-master/src/infrastructure/PhabricatorEditor.php'
+Icon[en_US]=application-x-php
+URL=file:///home/white/Desktop/phabricator-master/src/infrastructure/PhabricatorEditor.php
+Type=Link
